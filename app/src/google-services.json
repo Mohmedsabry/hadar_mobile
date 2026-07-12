@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792098204774",
+    "project_id": "hadar-food-delivery",
+    "storage_bucket": "hadar-food-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792098204774:android:13ee73320dc09db94651a7",
+        "android_client_info": {
+          "package_name": "com.example.hadar_food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABf3cAa1z4z5z4lyBAMi8I_1Zztkde948"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
